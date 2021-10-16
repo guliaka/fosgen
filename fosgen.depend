@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634099155 source:d:\c++_projects\learncpp\fosgen\main.cpp
+	<iostream>
+	"cons_input_int.h"
+
+1633850340 source:d:\c++_projects\learncpp\fosgen\cons_input_int.cpp
+	<iostream>
+
+1633850282 d:\c++_projects\learncpp\fosgen\cons_input_int.h
+
