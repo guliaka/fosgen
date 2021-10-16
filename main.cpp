@@ -1,6 +1,5 @@
 #include <iostream>
 #include <limits>
-#include "cons_input_int.h"
 #include <ctime>
 #include <unistd.h>
 #include <random>
@@ -103,8 +102,9 @@ std::string random_string(int length)
 
 int main(int argc, char *argv[])
 {
-    for (int i = 0; i < argc; ++i)
-        std::cout << argv[i] << "\n";
+    // Plaseholder for command line arguments parsing
+    //for (int i = 0; i < argc; ++i)
+        //std::cout << argv[i] << "\n";
 
 
     int a {main_menu_choice()};
